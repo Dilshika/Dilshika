@@ -27,6 +27,8 @@ MongoDB • PostgreSQL • Git • Docker • CI/CD
 ---
 
 ## 📂 Featured Projects  
+🏗️ [[Pet Project](https://github.com/Dilshika/pet-project) – Angular + Node Fullstack App](#) → This is an Auction software where users can do online based auction
+
 
 ---
 
